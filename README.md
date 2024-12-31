@@ -37,6 +37,4 @@ To set up this project on your computer:
     ```
     python manage.py migrate
     ```
-
----
-Special thanks to Brian and the entire CS50 team for making learning easy, engaging, and free. 
+https://youtu.be/LM-Z4sw1gGs?si=chpJE572aniC5cYZ
